@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Sebastian 👋
 
-<!--
-**SPMDEVGIT/SPMDEVGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Armenia, Colombia 🇨🇴 — open to remote opportunities.
 
-Here are some ideas to get you started:
+I build web and mobile products end-to-end, from architecture to deployment.
+Currently focused on SaaS development and digital transformation for local businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm building
+
+### [HormiApp](https://www.hormiapp.com)
+A SaaS platform for appointment scheduling and business management.
+Built and shipped independently — full product ownership from day one.
+> React · Next.js · SQL · REST API
+
+### Aesthetic Clinic Platform
+SaaS for aesthetic clinics to digitize paper-based operations:
+client records, scheduling, and internal process management.
+> React · Kotlin · Java · SQL
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · JavaScript (ES6+) · HTML/CSS  
+**Backend:** Java · Kotlin · REST APIs · SQL  
+**Mobile:** Kotlin (Android)  
+**Other:** Git · SaaS Architecture · UI/UX Design  
+
+---
+
+## 📫 Let's connect
+
+- 🌐 [hormiapp.com](https://www.hormiapp.com)
+- 📧 spinzonmm@gmail.com
