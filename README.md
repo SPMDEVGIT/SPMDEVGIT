@@ -24,7 +24,7 @@ client records, scheduling, and internal process management.
 ## 🛠️ Tech Stack
 
 **Frontend:** React · Next.js · JavaScript (ES6+) · HTML/CSS  
-**Backend:** Java · Kotlin · REST APIs · SQL  
+**Backend:** Java · SpringBoot · REST APIs · SQL  
 **Mobile:** Kotlin (Android)  
 **Other:** Git · SaaS Architecture · UI/UX Design  
 
