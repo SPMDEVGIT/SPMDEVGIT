@@ -33,4 +33,4 @@ client records, scheduling, and internal process management.
 ## 📫 Let's connect
 
 - 🌐 [hormiapp.com](https://www.hormiapp.com)
-- 📧 spinzonmm@gmail.com
+- 📧 spinzonmu@gmail.com
